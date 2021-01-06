@@ -1,7 +1,8 @@
 # Orbitals
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gist/Noah-Burns/6f040fe02e2e2c3164cde5a9564d7f0a/HEAD)
+- Main notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Noah-Burns/Orbitals/main?filepath=Orbitals.ipynb)
+- Documented notebook [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Noah-Burns/Orbitals/main?filepath=Orbitals%20Documented.ipynb)
 
-The main notebook is most easily accessible through the Binder above.
+The notebooks are most easily accessible through the Binders above.
 
 Visualizing atomic orbitals using hydrogen-like wave functions.
 
@@ -22,16 +23,12 @@ Visualizing atomic orbitals using hydrogen-like wave functions.
 Currently in a Jupyter notebook deriving the wave functions step-by-step using symbolic math.
 
 ## Current notebook TODOs
-- Organize all the plotting/GUI code
-- Plot titles
 - Mark classically forbidden region on probability density plots
 - Smarter "plotting sphere," adjustable?
-- Variable # of points
 - More colors
 - Power rule color scaling? Would make lower-probability points more visible, making larger orbitals with more radial nodes much more visible.
 
 
 ## Eventual formats
-- Clean, separate notebook, original notebook will be de facto documentation
 - Standalone python app
 - Webapp of some sort?
